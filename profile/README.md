@@ -14,6 +14,7 @@
 ## 🚩 운영중 (2024.01 ~ ...ing)
 친구들과 함께 멀티모드를 플레이해보세요!🎉 <br/>
 👉👉 <a href="https://musiq.site/" target="_blank">뮤직큐 플레이하러 가기!<a/>
+<a href="https://www.google.co.kr/" target="_blank"> https://www.google.co.kr/ </a>
 
 <br/>
 
