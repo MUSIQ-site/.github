@@ -7,23 +7,13 @@
 | <img src="./img/Intro/landing.png"/> | <img src="./img/Intro/singleMode.png"/> | <img src="./img/Intro/multiMode.png"/> |
 | ------------------------------------ | --------------------------------------- | -------------------------------------- |
 
-## 🚩 진행 기간
+<br/>
 
-### V1 Guest Mode ✅
+## 🚩 운영중 (2024.01 ~ ...ing)
+친구들과 함께 멀티모드를 플레이해보세요!🎉 <br/>
+👉👉 <a href="https://musiq.site/">뮤직큐 플레이하러 가기!<a/>
 
-2023년 11월 1일 배포완료
-
-### V1.5 Single Mode ✅
-
-2023년 11월 9일 배포완료
-
-### V2 Multi Mode ✅
-
-2023년 11월 16일 배포완료
-
-### V3 운영중 (...ing)
-
-2024년 1월 ~
+<br/>
 
 ## 🚩 참여 인원
 
@@ -47,8 +37,7 @@
 
 ### BE
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
 
 ### FE
 
