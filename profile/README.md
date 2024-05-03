@@ -1,7 +1,7 @@
-# <img src="./img/danceChick.gif" width="30" height="30"  alt="MusiQ 병아리"/> MusiQ <img src="./img/danceChick.gif" width="30" height="30"  alt="MusiQ 병아리"/>
+<img src="./img/logo.svg" width="200"><img src="./img/danceChick.gif" width="100" height="100"  alt="MusiQ 병아리"/>
 
-<img src="./img/logo.svg" width="200">
 <br/>
+
 실시간 노래 빨리 맞추기 게임 웹 사이트 입니다.<br/>
 게스트, 싱글, 멀티 모드로 혼자 혹은 친구들과 함께 게임 가능!<br/>
 정답제출과 노래듣기가 키보드로 조작 가능합니다. 스피드하게 게임을 즐겨보세요!
@@ -9,23 +9,13 @@
 | <img src="./img/Intro/landing.png"/> | <img src="./img/Intro/singleMode.png"/> | <img src="./img/Intro/multiMode.png"/> |
 | ------------------------------------ | --------------------------------------- | -------------------------------------- |
 
-## 🚩 진행 기간
+<br/>
 
-### V1 Guest Mode ✅
+## 🚩 운영중 (2024.01 ~ ...ing)
+친구들과 함께 멀티모드를 플레이해보세요!🎉 <br/>
+👉👉 <a href="https://musiq.site/" target="_blank">뮤직큐 플레이하러 가기!<a/>
 
-2023년 11월 1일 배포완료
-
-### V1.5 Single Mode ✅
-
-2023년 11월 9일 배포완료
-
-### V2 Multi Mode ✅
-
-2023년 11월 16일 배포완료
-
-### V3 운영중 (...ing)
-
-2024년 1월 ~
+<br/>
 
 ## 🚩 참여 인원
 
@@ -49,8 +39,7 @@
 
 ### BE
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
 
 ### FE
 
