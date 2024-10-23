@@ -1,4 +1,4 @@
-<img src="./img/logo.svg" width="200"><img src="./img/danceChick.gif" width="100" height="100"  alt="MusiQ 병아리"/>
+<img src="../img/logo.svg" width="200"><img src="../img/danceChick.gif" width="100" height="100"  alt="MusiQ 병아리"/>
 
 <br/>
 
@@ -6,7 +6,7 @@
 게스트, 싱글, 멀티 모드로 혼자 혹은 친구들과 함께 게임 가능!<br/>
 정답제출과 노래듣기가 키보드로 조작 가능합니다. 스피드하게 게임을 즐겨보세요!
 
-| <img src="./img/Intro/landing.png"/> | <img src="./img/Intro/singleMode.png"/> | <img src="./img/Intro/multiMode.png"/> |
+| <img src="../img/Intro/landing.png"/> | <img src="../img/Intro/singleMode.png"/> | <img src="../img/Intro/multiMode.png"/> |
 | ------------------------------------ | --------------------------------------- | -------------------------------------- |
 
 <br/>
